@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "555594872553",
+    "firebase_url": "https://rnfbase-19bb5.firebaseio.com",
+    "project_id": "rnfbase-19bb5",
+    "storage_bucket": "rnfbase-19bb5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:555594872553:android:a427f4ca298fd29c",
+        "android_client_info": {
+          "package_name": "com.demoredux"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "555594872553-u5pt0j4e4q5tiasab4krfrtialcor7g0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.demoredux",
+            "certificate_hash": "b360c96df1e606d1f61025c2cdc9cfeb6608c9c2"
+          }
+        },
+        {
+          "client_id": "555594872553-svdbfth3t6rdvejujce26sqetu03oo24.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOrDCvpfNsFpiVJUp2_V6jVU7nIIsyV9U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "555594872553-svdbfth3t6rdvejujce26sqetu03oo24.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
